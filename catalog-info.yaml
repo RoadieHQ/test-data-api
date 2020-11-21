@@ -1,0 +1,10 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-data-api
+  annotations:
+    github.com/project-slug: RoadieHQ/test-data-api
+spec:
+  type: other
+  lifecycle: unknown
